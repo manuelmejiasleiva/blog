@@ -7,27 +7,17 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Evolución diaria de la pandemia de COVID-19 en España y en el mundo</title>
+				<title>Bienvenid@</title>
 				
 					<dc:creator>Manuel Mejías</dc:creator>
 				
 				
-					<description>&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;#jekyll-starter-kit&quot;&gt;Evolución diaria de COVID-19 en España según situación clínica&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Evolución del número de nuevos casos y fallecimientos a diario&lt;/li&gt;
-  &lt;li&gt;Los casos y fallecimientos confirmados en cada Comunidad Autónoma&lt;/li&gt;
-  &lt;li&gt;Tasa de multiplicación de casos y fallecimientos&lt;/li&gt;
-  &lt;li&gt;Tasa de multiplicación de casos para cada Comunidad Autónoma&lt;/li&gt;
-  &lt;li&gt;Tiempo de duplicación de casos y fallecimientos&lt;/li&gt;
-  &lt;li&gt;Tiempo de duplicación de casos para cada Comunidad Autónoma&lt;/li&gt;
-  &lt;li&gt;Número reproductivo (R)&lt;/li&gt;
-  &lt;li&gt;Evolución del número de nuevos casos y fallecimientos por países&lt;/li&gt;
-&lt;/ol&gt;
+					<description>&lt;h2 id=&quot;bienvenid&quot;&gt;Bienvenid@&lt;/h2&gt;
 </description>
 				
 				<pubDate>Sat, 04 Apr 2020 00:00:00 +0200</pubDate>
-				<link>/covid-19/covid-19.html</link>
-				<guid isPermaLink="true">/covid-19/covid-19.html</guid>
+				<link>/bienvenida/covid-19.html</link>
+				<guid isPermaLink="true">/bienvenida/covid-19.html</guid>
 			</item>
 		
 	</channel>
