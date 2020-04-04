@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-04T23:46:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manuel Mejías</title><subtitle>Sociólogo</subtitle><author><name>Manuel Mejías Leiva</name></author><entry><title type="html">Welcome to Lagrange!</title><link href="http://localhost:4000/journal/welcome-to-lagrange.html" rel="alternate" type="text/html" title="Welcome to Lagrange!" /><published>2016-01-01T00:00:00+01:00</published><updated>2016-01-01T00:00:00+01:00</updated><id>http://localhost:4000/journal/welcome-to-lagrange</id><content type="html" xml:base="http://localhost:4000/journal/welcome-to-lagrange.html">&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-05T00:18:43+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manuel Mejías</title><subtitle>Sociólogo</subtitle><author><name>Manuel Mejías Leiva</name></author><entry><title type="html">Evolución diaria de la pandemia de COVID-19 en España y en el mundo</title><link href="http://localhost:4000/covid-19/covid-19.html" rel="alternate" type="text/html" title="Evolución diaria de la pandemia de COVID-19 en España y en el mundo" /><published>2020-04-04T00:00:00+02:00</published><updated>2020-04-04T00:00:00+02:00</updated><id>http://localhost:4000/covid-19/covid-19</id><content type="html" xml:base="http://localhost:4000/covid-19/covid-19.html">&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#jekyll-starter-kit&quot;&gt;Evolución diaria de COVID-19 en España según situación clínica&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Evolución del número de nuevos casos y fallecimientos a diario&lt;/li&gt;
+  &lt;li&gt;Los casos y fallecimientos confirmados en cada Comunidad Autónoma&lt;/li&gt;
+  &lt;li&gt;Tasa de multiplicación de casos y fallecimientos&lt;/li&gt;
+  &lt;li&gt;Tasa de multiplicación de casos para cada Comunidad Autónoma&lt;/li&gt;
+  &lt;li&gt;Tiempo de duplicación de casos y fallecimientos&lt;/li&gt;
+  &lt;li&gt;Tiempo de duplicación de casos para cada Comunidad Autónoma&lt;/li&gt;
+  &lt;li&gt;Número reproductivo (R)&lt;/li&gt;
+  &lt;li&gt;Evolución del número de nuevos casos y fallecimientos por países&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/journal/getting-started.html&quot;&gt;Getting Started&lt;/a&gt;: getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.&lt;/p&gt;
+
+&lt;h2 id=&quot;example-content&quot;&gt;Example Content&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/journal/text-formatting-examples.html&quot;&gt;Text and Formatting&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;questions&quot;&gt;Questions?&lt;/h2&gt;
+
+&lt;p&gt;This theme is completely free and open source software. You may use it however you want, as it is distributed under the &lt;a href=&quot;http://choosealicense.com/licenses/mit/&quot;&gt;MIT License&lt;/a&gt;. If you are having any problems, any questions or suggestions, feel free to &lt;a href=&quot;https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;amp;via=paululele&quot;&gt;tweet at me&lt;/a&gt;, or &lt;a href=&quot;https://github.com/lenpaul/lagrange/issues/new&quot;&gt;file a GitHub issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-jekyll&quot;&gt;More Jekyll!&lt;/h2&gt;
+
+&lt;h3 id=&quot;millennial&quot;&gt;Millennial&lt;/h3&gt;
+
+&lt;p&gt;Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.&lt;/p&gt;
+
+&lt;p&gt;Feel free to check out &lt;a href=&quot;https://lenpaul.github.io/Millennial/&quot; target=&quot;_blank&quot;&gt;the demo&lt;/a&gt;, where you’ll also find instructions on &lt;a href=&quot;https://lenpaul.github.io/Millennial/documentation/getting-started.html&quot;&gt;how to use install&lt;/a&gt; and use the theme.&lt;/p&gt;
+
+&lt;h3 id=&quot;portfolio-jekyll-theme&quot;&gt;Portfolio Jekyll Theme&lt;/h3&gt;
+
+&lt;p&gt;This is a Jekyll theme built using the &lt;a href=&quot;http://devtipsstarterkit.com/&quot;&gt;DevTips Starter Kit&lt;/a&gt; as a foundation for starting, and following closely the amazing tutorial by &lt;a href=&quot;https://www.youtube.com/watch?v=T6jKLsxbFg4&amp;amp;list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P&quot;&gt;Travis Neilson over at DevTips&lt;/a&gt;. The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.&lt;/p&gt;
+
+&lt;p&gt;Everything that you will ever need to know about this Jekyll theme is included in &lt;a href=&quot;https://github.com/LeNPaul/portfolio-jekyll-theme&quot;&gt;the repository&lt;/a&gt;, which you can also find in &lt;a href=&quot;https://lenpaul.github.io/portfolio-jekyll-theme/&quot;&gt;the demo site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;jekyll-starter-kit&quot;&gt;Jekyll Starter Kit&lt;/h3&gt;
+
+&lt;p&gt;The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.&lt;/p&gt;
+
+&lt;p&gt;Feel free to check out &lt;a href=&quot;https://github.com/LeNPaul/jekyll-starter-kit&quot; target=&quot;_blank&quot;&gt;the GitHub repository&lt;/a&gt;, where you’ll also find instructions on how to use install and use the theme.&lt;/p&gt;
+
+&lt;iframe title=&quot;Tasa de riesgo de pobreza por Comunidades Aut&amp;oacute;nomas&quot; aria-label=&quot;Spain autonomous communities choropleth map&quot; id=&quot;datawrapper-chart-xehwk&quot; src=&quot;//datawrapper.dwcdn.net/xehwk/8/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;693&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,function(a){if(void 0!==a.data[&quot;datawrapper-height&quot;])for(var e in a.data[&quot;datawrapper-height&quot;]){var t=document.getElementById(&quot;datawrapper-chart-&quot;+e)||document.querySelector(&quot;iframe[src*='&quot;+e+&quot;']&quot;);t&amp;&amp;(t.style.height=a.data[&quot;datawrapper-height&quot;][e]+&quot;px&quot;)}})}();
+&lt;/script&gt;</content><author><name>Manuel Mejías</name></author><category term="Covid" /><category term="datos" /><summary type="html">Evolución diaria de COVID-19 en España según situación clínica Evolución del número de nuevos casos y fallecimientos a diario Los casos y fallecimientos confirmados en cada Comunidad Autónoma Tasa de multiplicación de casos y fallecimientos Tasa de multiplicación de casos para cada Comunidad Autónoma Tiempo de duplicación de casos y fallecimientos Tiempo de duplicación de casos para cada Comunidad Autónoma Número reproductivo (R) Evolución del número de nuevos casos y fallecimientos por países</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/mountains.jpg" /><media:content medium="image" url="http://localhost:4000/mountains.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Welcome to Lagrange!</title><link href="http://localhost:4000/journal/welcome-to-lagrange.html" rel="alternate" type="text/html" title="Welcome to Lagrange!" /><published>2016-01-01T00:00:00+01:00</published><updated>2016-01-01T00:00:00+01:00</updated><id>http://localhost:4000/journal/welcome-to-lagrange</id><content type="html" xml:base="http://localhost:4000/journal/welcome-to-lagrange.html">&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
 
 &lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
 
