@@ -20,6 +20,6 @@
 
 3. Subir nuevo contenido al repositorio y por consiguiente a la web.
 
-    - ``git add . && git commit -m "añadido nuevo artículo" && git push origin master``
+    - ``jekyll build && git add . && git commit -m "añadido nuevo artículo" && git push origin master``
 
 4. Comprobar que los cambios se subieron correctamente al repositorio y por consiguiente a la web.
