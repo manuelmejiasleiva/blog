@@ -1,6 +1,11 @@
 ---
 layout: page
-title: Contacto
+title: 
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+![Manuel Mejías Leiva]({{ site.github.url }}/assets/img/me.jpg){:width="150px"}
+
+### Manuel Mejías Leiva
+[mejiasleivamanuel@gmail.com](mailto:mejiasleivamanuel@gmail.com)
+
+[@MejiasLeiva](https://twitter.com/MejiasLeiva)

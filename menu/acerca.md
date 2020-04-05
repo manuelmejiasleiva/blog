@@ -1,6 +1,11 @@
 ---
 layout: page
-title: Acerca
+title: 
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+![Manuel Mejías Leiva]({{ site.github.url }}/assets/img/me.jpg){:width="150px"}
+
+### Manuel Mejías Leiva
+
+Soy sociólogo por la Universidad Pablo de Olavide de Sevilla. Actualmente he cursado el Máster de Análisis Político y Electoral que imparte la Universidad Carlos III de Madrid. He trabajado como Analista de datos en 40dB y como Técnico de investigación en IDEARA SL.
+ 
