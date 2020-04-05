@@ -10,11 +10,15 @@ title: Home
   </h1>
   {% if post.image %}
   <div class="thumbnail-container">
-    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
+    <a href="{{ site.github.url }}{{ post.url }}">
+      <figure class="progressive">
+        <img class="progressive__img progressive--not-loaded" data-progressive="{{ site.github.url }}/assets/img/{{ post.image }}" src="{{ site.github.url }}/assets/img/{{ post.image }}" alt="{{ mypost.title }}" alt="{{ post.title }}">
+      </figure>
+    </a>
   </div>
   {% endif %}
   <p>
-    {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
+    {{ post.content | strip_html | truncate: 350 }} <a class="read-more" href="{{ site.github.url }}{{ post.url }}">Leer más</a>
     <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
   </p>
 </div>

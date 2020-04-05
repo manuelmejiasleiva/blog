@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'Acerca', path: 'menu', url: 'about.html'}
+- {name: 'Acerca', path: 'menu', url: 'acerca.html'}
 - {name: 'Artículos', path: 'menu', url: 'articulos.html'}
-- {name: 'Contacto', path: 'menu', url: 'contact.html'}
+- {name: 'Contacto', path: 'menu', url: 'contacto.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -27,6 +27,6 @@ pagination:
 
 sharing_button_prompt: 'Compartir es gratis!'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'También puedes leer:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Escrito en'
