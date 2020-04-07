@@ -19,7 +19,7 @@
 */
 
 body {
-    font-family: "PT Serif", Georgia, "Times New Roman", serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     color: #515151;
     line-height: 1.75rem;
@@ -34,6 +34,11 @@ body {
         font-size: 1.5rem;
         line-height: 31px;
     }
+
+    body h3 {
+        font-size: 1.35rem;
+    }
+
 }
 
 h1 {
@@ -51,7 +56,6 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Quattrocento Sans", sans-serif;
     color: #333;
 }
 
@@ -112,7 +116,7 @@ hr {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     margin-bottom: 4rem;
-    font-family: "Quattrocento Sans", sans-serif;
+    margin-top: 20px;
 }
 
 .masthead a:hover {
@@ -166,13 +170,21 @@ hr {
     margin-top: 3px;
     margin-bottom: 1rem;
     color: #9a9a9a;
-    font-family: 'Quattrocento Sans', sans-serif;
     font-size: 0.8rem;
 }
 
 @media (max-width: 30rem) {
     .posts h1 {
         font-size: 1.5rem;
+    }
+
+    .post-container h1 {
+        font-size: 1.6rem; 
+        font-weight: bold;
+    }
+
+    ol {
+        padding-left: 20px !important;
     }
 }
 
@@ -196,7 +208,6 @@ hr {
 
 .pagination {
     overflow: hidden;
-    font-family: 'Quattrocento Sans', sans-serif;
     text-align: center;
 }
 
@@ -569,8 +580,17 @@ a:hover {
 }
 
 .progressive {
-    margin: 0;
+    margin: 25px 0px;
+    height: 100%;
     background: rgba(255, 255, 255, 0) !important;
+}
+
+.thumbnail-container img{
+    margin: 0 !important;
+}
+
+.thumbnail-container{
+    margin-bottom: 5px;
 }
 
 .masthead>h3>a {

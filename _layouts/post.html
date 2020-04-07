@@ -5,14 +5,15 @@ layout: default
 <h1>
   {{ page.title }}
 </h1>
-
 {% if page.image %}
   <figure class="progressive">
     <img class="progressive__img progressive--not-loaded" data-progressive="{{ site.github.url }}/assets/img/{{ page.image }}" src="{{ site.github.url }}/assets/img/{{ page.image }}" alt="{{ mypost.title }}" alt="{{ post.title }}">
   </figure>
 {% endif %}
 
+
 {{ content }}
+
 
 <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> 
   {{ page.date | date: "%-d" }} de

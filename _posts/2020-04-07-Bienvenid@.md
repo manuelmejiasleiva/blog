@@ -1,0 +1,245 @@
+---
+layout: post
+title: "Evolución diaria de la pandemia de COVID-19 en España y en el mundo"
+author: "Manuel Mejías Leiva"
+categories: Covid-19
+tags: [Covid-19, evolución, pandemia, casos]
+image: /img_covid/covid19.png
+---
+
+
+**_Datos actualizados a 07/04/2020_** 
+
+
+1. [**Evolución diaria de la epidemia en España.**](#1)
+2. [**Número de casos y fallecidos acumulados.**](#2)
+3. [**Evolución del número de nuevos casos y fallecimientos a diario.**](#3)
+4. [**Los casos y fallecimientos confirmados en cada Comunidad Autónoma.**](#4)
+5. [**Tiempo de duplicación de casos y fallecimientos.**](#5)
+6. [**Tiempo de duplicación de casos para cada Comunidad Autónoma.**](#6)
+7. [**Número reproductivo (R).**](#7)
+8. [**Evolución del número de nuevos casos y fallecimientos por países.**](#8)
+
+<p align="justify">España está atravesando uno de los peores brotes de Coronavirus en el mundo. En este post se presentan datos relativos a la evolución de la pandemia tanto a nivel nacional, autonómico e internacional. Los resultados a nivel nacional se obtienen a partir de la información diaria que ofrece el <a target="_blank" href="https://covid19.isciii.es/">Ministerio de Sanidad, Consumo y Bienestar Social</a>. Para las Comunidades Autónomas, los datos son obtenidos a partir de la información que proporciona el equipo de  <a target="_blank" href="https://lab.montera34.com/covid19/">Numeroteca</a>. Y, por último, los datos a nivel mundial, son tomados a través de la <a target="_blank" href="https://coronavirus.jhu.edu/map.html">Johns Hopkins University</a>. Los gráficos se actualizan cada día.</p>
+
+### <a name="1"></a>Evolución diaria de COVID-19 en España
+
+<p align="justify">El siguiente gráfico presentan la evolución del número de fallecidos que está dejando la epidemia en España. Como se puede observar, la trayectoria de la curva de fallecidos está tomando forma de meseta. Esto indica que se está en una fase de control del brote. Y en unos días podría empezar a tomar una línea descendente.</p>
+
+<iframe title="Evoluci&oacute;n del n&uacute;mero de fallecidos en Espa&ntilde;a" aria-label="Interactive line chart" id="datawrapper-chart-2DRIB" src="//datawrapper.dwcdn.net/2DRIB/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
+### <a name="2"></a>Número de casos y fallecidos acumulados
+
+<p align="justify">En los siguientes gráficos se visualiza el número total de fallecidos y de casos acumulados en escala lineal. Este tipo de escala no representa de manera clara la evolución de la epidemia. Esto es debido a que esta toma un crecimiento exponencial al principio, y hace más difícil observar su tendencia evolutiva. Algunos<a target="_blank" href="https://twitter.com/jburnmurdoch/status/1237748598051409921"> especialistas en visualización de datos</a> recomiendan presentar la evolución de la epidemia en escala logarítmica (en el primer gráfico interactivo se puede observar).</p>
+
+<div class="row mb-4 mt-4">
+    <div class="col-12">
+        <div class="card mt-3 tab-card">
+            <div class="card-header tab-card-header">
+            <ul class="nav nav-tabs card-header-tabs" id="myTab" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link" id="one-tab" data-toggle="tab" href="#one" role="tab" aria-controls="One" aria-selected="true">Fallecidos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="two-tab" data-toggle="tab" href="#two" role="tab" aria-controls="Two" aria-selected="false">Confirmados</a>
+                </li>
+            </ul>
+            </div>
+            <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active p-3" id="one" role="tabpanel" aria-labelledby="one-tab">
+                <img src="{{ site.github.url }}/assets/img/img_covid/p2.png">             
+            </div>
+            <div class="tab-pane fade p-3" id="two" role="tabpanel" aria-labelledby="two-tab">
+                <img src="{{ site.github.url }}/assets/img/img_covid/p1.png">                    
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    window.addEventListener('load', function(){
+        document.querySelector('a[href="#one"]').click();
+    })
+</script>
+
+### <a name="3"></a>Evolución del número de nuevos casos y fallecimientos a diario
+
+<p align="justify">La tendencia de la curva se observa bastante bien en los siguientes gráficos. Estos presentan el número diario de nuevos casos y nuevos fallecimientos. Las líneas de colores muestran la tendencia que siguen los datos, y dibujan la forma de meseta que está tomando la trayectoria de la epidemia.</p>
+
+<div class="row mb-4 mt-4">
+    <div class="col-12">
+        <div class="card mt-3 tab-card">
+            <div class="card-header tab-card-header">
+            <ul class="nav nav-tabs card-header-tabs" id="myTab" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link" id="one-tab" data-toggle="tab" href="#three" role="tab" aria-controls="One" aria-selected="true">Fallecidos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="two-tab" data-toggle="tab" href="#four" role="tab" aria-controls="Two" aria-selected="false">Confirmados</a>
+                </li>
+            </ul>
+            </div>
+            <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active p-3" id="three" role="tabpanel" aria-labelledby="one-tab">
+                <img src="{{ site.github.url }}/assets/img/img_covid/p4.png">             
+            </div>
+            <div class="tab-pane fade p-3" id="four" role="tabpanel" aria-labelledby="two-tab">
+                <img src="{{ site.github.url }}/assets/img/img_covid/p3.png">                    
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    window.addEventListener('load', function(){
+        document.querySelector('a[href="#three"]').click();
+    })
+</script>
+
+### <a name="4"></a>Los casos y fallecimientos confirmados en cada Comunidad Autónoma
+
+<p align="justify">Los siguientes gráficos nos muestran la evolución de la epidemia en las diferentes CCAA. En general, las visualizaciones en escala logarítmica muestran un aplanamiento de la curva en la mayoría de Comunidades, tanto para los casos acumulados como para los fallecimientos.</p>
+
+<div class="row mb-4 mt-4">
+    <div class="col-12">
+        <div class="card mt-3 tab-card">
+            <div class="card-header tab-card-header">
+            <ul class="nav nav-tabs card-header-tabs" id="myTab" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link" id="one-tab" data-toggle="tab" href="#five" role="tab" aria-controls="One" aria-selected="true">Fallecidos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="two-tab" data-toggle="tab" href="#six" role="tab" aria-controls="Two" aria-selected="false">Confirmados</a>
+                </li>
+            </ul>
+            </div>
+            <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active p-3" id="five" role="tabpanel" aria-labelledby="one-tab">
+                <img src="{{ site.github.url }}/assets/img/img_covid/p6.png">             
+            </div>
+            <div class="tab-pane fade p-3" id="six" role="tabpanel" aria-labelledby="two-tab">
+                <img src="{{ site.github.url }}/assets/img/img_covid/p5.png">                    
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    window.addEventListener('load', function(){
+        document.querySelector('a[href="#five"]').click();
+    })
+</script>
+
+### <a name="5"></a>Tiempo de duplicación de casos y fallecimientos
+
+<p align="justify"><b>El tiempo de duplicación</b>. Este indicador también trata de mostrar el ritmo de evolución de la epidemia. Basado en este artículo de <a target="_blank" href="https://blog.datawrapper.de/weekly-chart-coronavirus-doublingtimes/">Lisa Charlotte</a>, he calculado el tiempo en el que se duplican el número de casos y fallecimientos a nivel nacional y autonómico.</p>
+
+<p align="justify">En este caso, si la línea es ascendente, el número de casos y fallecimientos tarda más días en duplicarse. Si el tiempo de duplicación aumenta, el brote crece a un ritmo menor.</p>
+
+<div class="row mb-4 mt-4">
+    <div class="col-12">
+        <div class="card mt-3 tab-card">
+            <div class="card-header tab-card-header">
+            <ul class="nav nav-tabs card-header-tabs" id="myTab" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link" id="one-tab" data-toggle="tab" href="#seven" role="tab" aria-controls="One" aria-selected="true">Fallecidos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="two-tab" data-toggle="tab" href="#eight" role="tab" aria-controls="Two" aria-selected="false">Confirmados</a>
+                </li>
+            </ul>
+            </div>
+            <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active p-3" id="seven" role="tabpanel" aria-labelledby="one-tab">
+                <img src="{{ site.github.url }}/assets/img/img_covid/p12.png">             
+            </div>
+            <div class="tab-pane fade p-3" id="eight" role="tabpanel" aria-labelledby="two-tab">
+                <img src="{{ site.github.url }}/assets/img/img_covid/p11.png">                    
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    window.addEventListener('load', function(){
+        document.querySelector('a[href="#seven"]').click();
+    })
+</script>
+
+### <a name="6"></a>Tiempo de duplicación de casos para cada Comunidad Autónoma
+
+![Tiempo de duplicación CCAA]({{ site.github.url }}/assets/img/img_covid/p13.png)
+
+### <a name="7"></a>Número reproductivo (R)
+
+<p align="justify"><b>El número reproductivo (R)</b>. Este es otro indicador que se utiliza para seguir el ritmo del virus. Es posiblemente el mejor. Este número estima a cuántas personas contagia, en media, cada infectado. Si este número baja de 1 -si cada infectado contagia a menos de una persona- el brote empieza a remitir. Según <a target="_blank" href="https://cmmid.github.io/topics/covid19/control-measures/report/uk_scenario_modelling_preprint_2020_04_01.pdf">este trabajo del Department of Infectious Disease Epidemiology, de la London School of Hygiene & Tropical Medicine</a>, el R0 para Europa se ha estimado en un valor alrededor de 3 en ausencia de medidas de control del virus.</p>
+
+
+
+<div class="row mb-4 mt-4">
+    <div class="col-12">
+        <div class="card mt-3 tab-card">
+            <div class="card-header tab-card-header">
+            <ul class="nav nav-tabs card-header-tabs" id="myTab" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link" id="one-tab" data-toggle="tab" href="#nine" role="tab" aria-controls="One" aria-selected="true">R0 para España</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="two-tab" data-toggle="tab" href="#ten" role="tab" aria-controls="Two" aria-selected="false">R0 para Andalucía</a>
+                </li>
+            </ul>
+            </div>
+            <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active p-3" id="nine" role="tabpanel" aria-labelledby="one-tab">
+                <img src="{{ site.github.url }}/assets/img/img_covid/p14.png">             
+            </div>
+            <div class="tab-pane fade p-3" id="ten" role="tabpanel" aria-labelledby="two-tab">
+                <img src="{{ site.github.url }}/assets/img/img_covid/p15.png">                    
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    window.addEventListener('load', function(){
+        document.querySelector('a[href="#nine"]').click();
+    })
+</script>
+
+### <a name="8"></a>Evolución del número de nuevos casos y fallecimientos por países
+
+<p align="justify">Por último, presento dos gráficos para observar la evolución del número diario de nuevos casos y fallecimientos en varios países. Para dibujar la trayectoria que dibuja la curva en varios países, he tomado una media móvil de 7 días. La trayectoria de la curva para Italia y España toma la forma de meseta. La línea a seguir es la de Corea del Sur y China. Estos países cada día reportan menos muertes y número de casos.</p>
+
+<div class="row mb-4 mt-4">
+    <div class="col-12">
+        <div class="card mt-3 tab-card">
+            <div class="card-header tab-card-header">
+            <ul class="nav nav-tabs card-header-tabs" id="myTab" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link" id="one-tab" data-toggle="tab" href="#once" role="tab" aria-controls="One" aria-selected="true">Fallecidos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="two-tab" data-toggle="tab" href="#doce" role="tab" aria-controls="Two" aria-selected="false">Confirmados</a>
+                </li>
+            </ul>
+            </div>
+            <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active p-3" id="once" role="tabpanel" aria-labelledby="one-tab">
+                <img src="{{ site.github.url }}/assets/img/img_covid/p17.png">             
+            </div>
+            <div class="tab-pane fade p-3" id="doce" role="tabpanel" aria-labelledby="two-tab">
+                <img src="{{ site.github.url }}/assets/img/img_covid/p16.png">                    
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    window.addEventListener('load', function(){
+        document.querySelector('a[href="#once"]').click();
+    })
+</script>
+
+
+
