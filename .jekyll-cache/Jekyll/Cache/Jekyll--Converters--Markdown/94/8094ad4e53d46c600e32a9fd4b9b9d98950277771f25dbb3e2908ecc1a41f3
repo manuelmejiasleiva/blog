@@ -1,4 +1,4 @@
-I"�<<p><strong><em>Datos actualizados a 07/04/2020</em></strong></p>
+I"�<<p><strong><em>Datos actualizados a 08/04/2020</em></strong></p>
 
 <ol>
   <li><a href="#1"><strong>Evolución diaria de la epidemia en España.</strong></a></li>
@@ -17,11 +17,11 @@
 
 <p align="justify">El siguiente gráfico presentan la evolución del número de fallecidos que está dejando la epidemia en España. Como se puede observar, la trayectoria de la curva de fallecidos está tomando forma de meseta. Esto indica que se está en una fase de control del brote. Y en unos días podría empezar a tomar una línea descendente.</p>
 
-<iframe title="Evoluci&oacute;n del n&uacute;mero de fallecidos en Espa&ntilde;a" aria-label="Interactive line chart" id="datawrapper-chart-2DRIB" src="//datawrapper.dwcdn.net/2DRIB/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe>
+<iframe title="Evoluci&oacute;n del n&uacute;mero de fallecidos  en Espa&ntilde;a" aria-label="Interactive line chart" id="datawrapper-chart-2DRIB" src="//datawrapper.dwcdn.net/2DRIB/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe>
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
-<iframe title="Evoluci&oacute;n del n&uacute;mero de fallecidos en Espa&ntilde;a" aria-label="Interactive line chart" id="datawrapper-chart-2DRIB" src="//datawrapper.dwcdn.net/2DRIB/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe>
+<iframe title="Evoluci&oacute;n del n&uacute;mero de casos en Espa&ntilde;a" aria-label="Interactive line chart" id="datawrapper-chart-JSCW4" src="//datawrapper.dwcdn.net/JSCW4/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe>
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
