@@ -14,30 +14,30 @@ if (workbox) { //workbox solo existe en el scope del serviceWorker
     // cacheamos archivos html con estrategia CacheFirst
     workbox.routing.registerRoute(
         /(\w*[-]?[\.]?\w*)\.html$/,
-        workbox.strategies.StaleWhileRevalidate()
+        new workbox.strategies.NetworkFirst()
     );
 
     // cacheamos los archivos de imágenes con la estrategia CacheFirst
     workbox.routing.registerRoute(
         /\.(?:png|gif|jpg|jpeg|webp|svg|ico)$/,
-        workbox.strategies.StaleWhileRevalidate()
+        new workbox.strategies.StaleWhileRevalidate()
     );
 
     // cacheamos todos los archivos del directorio assets con estrategia staleWhileRevalidate
     workbox.routing.registerRoute(
         /assets\/(video\/(\w*[-]?[\.]?\w*).mp4)|assets\/(js\/(\w*[-]?[\.]?\w*).js)|assets\/(css\/(\w*[-]?[\.]?\w*).css)/,
-        workbox.strategies.StaleWhileRevalidate()
+        new workbox.strategies.StaleWhileRevalidate()
     );
 
     // cacheamos el webmanifest con estrategia CacheFirst
     workbox.routing.registerRoute(
         /manifest.webmanifest/,
-        workbox.strategies.StaleWhileRevalidate()
+        new workbox.strategies.CacheFirst()
     );
 
     // cacheamos CDN de librerías y el CDN  de workbox con estrategia CacheFirst
     workbox.routing.registerRoute(
         /(https:\/\/unpkg.+)|(https:\/\/cdnjs.+)|(https:\/\/cdn.+)|(https:\/\/storage\.googleapis.+)/g,
-        workbox.strategies.StaleWhileRevalidate()
+        new workbox.strategies.StaleWhileRevalidate()
     );
 }
