@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Acerca
 ---
 
 ![Manuel Mejías Leiva]({{ site.github.url }}/assets/img/me.jpg){:width="150px"}

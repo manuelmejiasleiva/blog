@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Artículos
 ---
 <ul class="posts">
   {% for post in site.posts %}

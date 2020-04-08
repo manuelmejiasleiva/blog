@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: CV
 ---
 
 ![Curriculum Manuel Mejías Leiva]({{ site.github.url }}/assets/img/cv.svg){:width="200px"}
