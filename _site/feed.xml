@@ -1,33 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-08T22:02:33+02:00</updated><id>/feed.xml</id><title type="html">Manuel Mejías</title><subtitle>Sociólogo</subtitle><author><name>Manuel Mejías Leiva</name></author><entry><title type="html">Evolución diaria de la pandemia de COVID-19 en España y en el mundo</title><link href="/covid-19/Covid19.html" rel="alternate" type="text/html" title="Evolución diaria de la pandemia de COVID-19 en España y en el mundo" /><published>2020-04-07T00:00:00+02:00</published><updated>2020-04-07T00:00:00+02:00</updated><id>/covid-19/Covid19</id><content type="html" xml:base="/covid-19/Covid19.html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Datos actualizados a 08/04/2020&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-09T01:02:52+02:00</updated><id>/feed.xml</id><title type="html">Manuel Mejías</title><subtitle>Sociólogo</subtitle><author><name>Manuel Mejías Leiva</name></author><entry><title type="html">Evolución diaria de la pandemia de COVID-19 en España y en el mundo</title><link href="/covid-19/Covid19.html" rel="alternate" type="text/html" title="Evolución diaria de la pandemia de COVID-19 en España y en el mundo" /><published>2020-04-07T00:00:00+02:00</published><updated>2020-04-07T00:00:00+02:00</updated><id>/covid-19/Covid19</id><content type="html" xml:base="/covid-19/Covid19.html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Datos actualizados a 08/04/2020&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;#1&quot;&gt;&lt;strong&gt;Evolución diaria de la epidemia en España.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#2&quot;&gt;&lt;strong&gt;Número de casos y fallecidos acumulados.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#3&quot;&gt;&lt;strong&gt;Evolución del número de nuevos casos y fallecimientos a diario.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#4&quot;&gt;&lt;strong&gt;Los casos y fallecimientos confirmados en cada Comunidad Autónoma.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#5&quot;&gt;&lt;strong&gt;Tiempo de duplicación de casos y fallecimientos.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#6&quot;&gt;&lt;strong&gt;Tiempo de duplicación de casos para cada Comunidad Autónoma.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#7&quot;&gt;&lt;strong&gt;Número reproductivo (R).&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#8&quot;&gt;&lt;strong&gt;Evolución del número de nuevos casos y fallecimientos por países.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#2&quot;&gt;&lt;strong&gt;Evolución del número de nuevos casos y fallecimientos a diario.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#3&quot;&gt;&lt;strong&gt;Los casos y fallecimientos confirmados en cada Comunidad Autónoma.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#4&quot;&gt;&lt;strong&gt;Tiempo de duplicación de casos y fallecimientos.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#5&quot;&gt;&lt;strong&gt;Tiempo de duplicación de casos para cada Comunidad Autónoma.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#6&quot;&gt;&lt;strong&gt;Número reproductivo (R).&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#7&quot;&gt;&lt;strong&gt;Evolución del número de nuevos casos y fallecimientos por países.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#8&quot;&gt;&lt;strong&gt;Número de test Covid-19 por millón de habitantes.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#9&quot;&gt;&lt;strong&gt;¿El virus no entiende de ricos o pobres?.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p align=&quot;justify&quot;&gt;España está atravesando uno de los peores brotes de Coronavirus en el mundo. En este post se presentan datos relativos a la evolución de la pandemia tanto a nivel nacional, autonómico e internacional. Los resultados a nivel nacional se obtienen a partir de la información diaria que ofrece el &lt;a target=&quot;_blank&quot; href=&quot;https://covid19.isciii.es/&quot;&gt;Ministerio de Sanidad, Consumo y Bienestar Social&lt;/a&gt;. Para las Comunidades Autónomas, los datos son obtenidos a partir de la información que proporciona el equipo de  &lt;a target=&quot;_blank&quot; href=&quot;https://lab.montera34.com/covid19/&quot;&gt;Numeroteca&lt;/a&gt;. Y, por último, los datos a nivel mundial, son tomados a través de la &lt;a target=&quot;_blank&quot; href=&quot;https://coronavirus.jhu.edu/map.html&quot;&gt;Johns Hopkins University&lt;/a&gt;. Los gráficos se actualizan cada día.&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;España está atravesando uno de los peores brotes de Coronavirus en el mundo. En este post se presentan datos relativos a la evolución de la pandemia tanto a nivel nacional, autonómico e internacional para tratar de clarificar algunos aspectos del ritmo de la pandemia. Los resultados a nivel nacional se obtienen a partir de la información diaria que ofrece el &lt;a target=&quot;_blank&quot; href=&quot;https://covid19.isciii.es/&quot;&gt;Ministerio de Sanidad, Consumo y Bienestar Social&lt;/a&gt;. Para las Comunidades Autónomas, los datos son obtenidos a partir de la información que proporciona el equipo de  &lt;a target=&quot;_blank&quot; href=&quot;https://lab.montera34.com/covid19/&quot;&gt;Numeroteca&lt;/a&gt;. Y, para el análisis internacional, los datos que se toman son los que ofrece la &lt;a target=&quot;_blank&quot; href=&quot;https://coronavirus.jhu.edu/map.html&quot;&gt;Johns Hopkins University&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;evolución-diaria-de-covid-19-en-españa&quot;&gt;&lt;a name=&quot;1&quot;&gt;&lt;/a&gt;Evolución diaria de COVID-19 en España&lt;/h3&gt;
+&lt;h3 id=&quot;evolución-diaria-de-la-epidemia-en-españa&quot;&gt;&lt;a name=&quot;1&quot;&gt;&lt;/a&gt;Evolución diaria de la epidemia en España&lt;/h3&gt;
 
-&lt;p align=&quot;justify&quot;&gt;El siguiente gráfico presentan la evolución del número de fallecidos que está dejando la epidemia en España. Como se puede observar, la trayectoria de la curva de fallecidos está tomando forma de meseta. Esto indica que se está en una fase de control del brote. Y en unos días podría empezar a tomar una línea descendente.&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Al principio del brote se puede observar cómo los fallecidos y los casos confirmados crecen de forma exponencial. Es fácil observarlo en el gráfico interactivo en escala logarítmica, ya que la línea sigue una evolución en línea recta: la pendiente de esa recta marca el ritmo del crecimiento e informa de con qué velocidad avanza la epidemia. En España, al principio los fallecidos y los casos se doblaban muy deprisa, pero a partir de la segunda semana -aproximadamente- su curva comienza a aplanarse. El objetivo es lograr que se aplane un poco más cada día.&lt;/p&gt;
 
-&lt;iframe title=&quot;Evoluci&amp;oacute;n del n&amp;uacute;mero de fallecidos  en Espa&amp;ntilde;a&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-2DRIB&quot; src=&quot;//datawrapper.dwcdn.net/2DRIB/4/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;442&quot;&gt;&lt;/iframe&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,function(a){if(void 0!==a.data[&quot;datawrapper-height&quot;])for(var e in a.data[&quot;datawrapper-height&quot;]){var t=document.getElementById(&quot;datawrapper-chart-&quot;+e)||document.querySelector(&quot;iframe[src*='&quot;+e+&quot;']&quot;);t&amp;&amp;(t.style.height=a.data[&quot;datawrapper-height&quot;][e]+&quot;px&quot;)}})}();
-&lt;/script&gt;
-
-&lt;iframe title=&quot;Evoluci&amp;oacute;n del n&amp;uacute;mero de casos en Espa&amp;ntilde;a&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-JSCW4&quot; src=&quot;//datawrapper.dwcdn.net/JSCW4/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,function(a){if(void 0!==a.data[&quot;datawrapper-height&quot;])for(var e in a.data[&quot;datawrapper-height&quot;]){var t=document.getElementById(&quot;datawrapper-chart-&quot;+e)||document.querySelector(&quot;iframe[src*='&quot;+e+&quot;']&quot;);t&amp;&amp;(t.style.height=a.data[&quot;datawrapper-height&quot;][e]+&quot;px&quot;)}})}();
-&lt;/script&gt;
-
-&lt;h3 id=&quot;número-de-casos-y-fallecidos-acumulados&quot;&gt;&lt;a name=&quot;2&quot;&gt;&lt;/a&gt;Número de casos y fallecidos acumulados&lt;/h3&gt;
-
-&lt;p align=&quot;justify&quot;&gt;En los siguientes gráficos se visualiza el número total de fallecidos y de casos acumulados en escala lineal. Este tipo de escala no representa de manera clara la evolución de la epidemia. Esto es debido a que esta toma un crecimiento exponencial al principio, y hace más difícil observar su tendencia evolutiva. Algunos&lt;a target=&quot;_blank&quot; href=&quot;https://twitter.com/jburnmurdoch/status/1237748598051409921&quot;&gt; especialistas en visualización de datos&lt;/a&gt; recomiendan presentar la evolución de la epidemia en escala logarítmica (en el primer gráfico interactivo se puede observar).&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Se presentan los datos en escala logarítmica porque de esta manera se captura mejor la naturaleza de la epidemia. Esto es debido a que en su evolución el número de casos se multiplica.&lt;/p&gt;
 
 &lt;div class=&quot;row mb-4 mt-4&quot;&gt;
     &lt;div class=&quot;col-12&quot;&gt;
@@ -44,10 +35,12 @@
             &lt;/div&gt;
             &lt;div class=&quot;tab-content&quot; id=&quot;myTabContent&quot;&gt;
             &lt;div class=&quot;tab-pane fade show active p-3&quot; id=&quot;one&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;one-tab&quot;&gt;
-                &lt;img src=&quot;/assets/img/img_covid/p2.png&quot; /&gt;             
+                &lt;iframe title=&quot;Evoluci&amp;oacute;n del n&amp;uacute;mero de fallecidos  en Espa&amp;ntilde;a&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-2DRIB&quot; src=&quot;//datawrapper.dwcdn.net/2DRIB/4/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;442&quot;&gt;&lt;/iframe&gt;&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,function(a){if(void 0!==a.data[&quot;datawrapper-height&quot;])for(var e in a.data[&quot;datawrapper-height&quot;]){var t=document.getElementById(&quot;datawrapper-chart-&quot;+e)||document.querySelector(&quot;iframe[src*='&quot;+e+&quot;']&quot;);t&amp;&amp;(t.style.height=a.data[&quot;datawrapper-height&quot;][e]+&quot;px&quot;)}})}();
+                &lt;/script&gt;         
             &lt;/div&gt;
             &lt;div class=&quot;tab-pane fade p-3&quot; id=&quot;two&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;two-tab&quot;&gt;
-                &lt;img src=&quot;/assets/img/img_covid/p1.png&quot; /&gt;                    
+                 &lt;iframe title=&quot;Evoluci&amp;oacute;n del n&amp;uacute;mero de casos en Espa&amp;ntilde;a&quot; aria-label=&quot;Interactive line chart&quot; id=&quot;datawrapper-chart-JSCW4&quot; src=&quot;//datawrapper.dwcdn.net/JSCW4/4/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,function(a){if(void 0!==a.data[&quot;datawrapper-height&quot;])for(var e in a.data[&quot;datawrapper-height&quot;]){var t=document.getElementById(&quot;datawrapper-chart-&quot;+e)||document.querySelector(&quot;iframe[src*='&quot;+e+&quot;']&quot;);t&amp;&amp;(t.style.height=a.data[&quot;datawrapper-height&quot;][e]+&quot;px&quot;)}})}();
+                &lt;/script&gt;            
             &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -59,9 +52,11 @@
     })
 &lt;/script&gt;
 
-&lt;h3 id=&quot;evolución-del-número-de-nuevos-casos-y-fallecimientos-a-diario&quot;&gt;&lt;a name=&quot;3&quot;&gt;&lt;/a&gt;Evolución del número de nuevos casos y fallecimientos a diario&lt;/h3&gt;
+&lt;h3 id=&quot;evolución-del-número-de-nuevos-casos-y-fallecimientos-a-diario&quot;&gt;&lt;a name=&quot;2&quot;&gt;&lt;/a&gt;Evolución del número de nuevos casos y fallecimientos a diario&lt;/h3&gt;
 
-&lt;p align=&quot;justify&quot;&gt;La tendencia de la curva se observa bastante bien en los siguientes gráficos. Estos presentan el número diario de nuevos casos y nuevos fallecimientos. Las líneas de colores muestran la tendencia que siguen los datos, y dibujan la forma de meseta que está tomando la trayectoria de la epidemia.&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;La tendencia de la curva se observa bastante bien en los siguientes gráficos. Estos presentan el número diario de nuevos casos y nuevos fallecimientos. Las líneas de colores muestran la tendencia que siguen los datos, y dibujan la forma de meseta que está tomando la trayectoria de la epidemia. Es muy probable que hayamos superado la fase de contención del brote, y en pocos días veremos una tendencia descendente en la curva epidémica.&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;&gt;Aquí es importante observar la gráfica del número de fallecimientos. Estas cifras tienen el inconveniente de que llegan con retraso, debido a que las muertes tardan en producirse dos o tres semanas. Pero -aunque no es un registro perfecto- son datos más precisos que los del número de casos.&lt;/p&gt;
 
 &lt;div class=&quot;row mb-4 mt-4&quot;&gt;
     &lt;div class=&quot;col-12&quot;&gt;
@@ -93,9 +88,9 @@
     })
 &lt;/script&gt;
 
-&lt;h3 id=&quot;los-casos-y-fallecimientos-confirmados-en-cada-comunidad-autónoma&quot;&gt;&lt;a name=&quot;4&quot;&gt;&lt;/a&gt;Los casos y fallecimientos confirmados en cada Comunidad Autónoma&lt;/h3&gt;
+&lt;h3 id=&quot;los-casos-y-fallecimientos-confirmados-en-cada-comunidad-autónoma&quot;&gt;&lt;a name=&quot;3&quot;&gt;&lt;/a&gt;Los casos y fallecimientos confirmados en cada Comunidad Autónoma&lt;/h3&gt;
 
-&lt;p align=&quot;justify&quot;&gt;Los siguientes gráficos nos muestran la evolución de la epidemia en las diferentes CCAA. En general, las visualizaciones en escala logarítmica muestran un aplanamiento de la curva en la mayoría de Comunidades, tanto para los casos acumulados como para los fallecimientos.&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Los siguientes gráficos nos muestran la evolución de la epidemia en las diferentes CCAA. En general, las visualizaciones en escala logarítmica muestran un aplanamiento de la curva en la mayoría de Comunidades, tanto para los casos acumulados como para los fallecimientos. Las líneas no son rectas como al principio, sino que se están doblando.&lt;/p&gt;
 
 &lt;div class=&quot;row mb-4 mt-4&quot;&gt;
     &lt;div class=&quot;col-12&quot;&gt;
@@ -127,9 +122,9 @@
     })
 &lt;/script&gt;
 
-&lt;h3 id=&quot;tiempo-de-duplicación-de-casos-y-fallecimientos&quot;&gt;&lt;a name=&quot;5&quot;&gt;&lt;/a&gt;Tiempo de duplicación de casos y fallecimientos&lt;/h3&gt;
+&lt;h3 id=&quot;tiempo-de-duplicación-de-casos-y-fallecimientos&quot;&gt;&lt;a name=&quot;4&quot;&gt;&lt;/a&gt;Tiempo de duplicación de casos y fallecimientos&lt;/h3&gt;
 
-&lt;p align=&quot;justify&quot;&gt;&lt;b&gt;El tiempo de duplicación&lt;/b&gt;. Este indicador también trata de mostrar el ritmo de evolución de la epidemia. Basado en este artículo de &lt;a target=&quot;_blank&quot; href=&quot;https://blog.datawrapper.de/weekly-chart-coronavirus-doublingtimes/&quot;&gt;Lisa Charlotte&lt;/a&gt;, he calculado el tiempo en el que se duplican el número de casos y fallecimientos a nivel nacional y autonómico.&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;&lt;b&gt;Tiempo de duplicación&lt;/b&gt;. Este indicador también trata de mostrar el ritmo de evolución de la epidemia. Basado en este artículo de &lt;a target=&quot;_blank&quot; href=&quot;https://blog.datawrapper.de/weekly-chart-coronavirus-doublingtimes/&quot;&gt;Lisa Charlotte&lt;/a&gt;, he calculado el tiempo en el que se duplican el número de casos y fallecimientos a nivel nacional y autonómico.&lt;/p&gt;
 
 &lt;p align=&quot;justify&quot;&gt;En este caso, si la línea es ascendente, el número de casos y fallecimientos tarda más días en duplicarse. Si el tiempo de duplicación aumenta, el brote crece a un ritmo menor.&lt;/p&gt;
 
@@ -163,13 +158,13 @@
     })
 &lt;/script&gt;
 
-&lt;h3 id=&quot;tiempo-de-duplicación-de-casos-para-cada-comunidad-autónoma&quot;&gt;&lt;a name=&quot;6&quot;&gt;&lt;/a&gt;Tiempo de duplicación de casos para cada Comunidad Autónoma&lt;/h3&gt;
+&lt;h3 id=&quot;tiempo-de-duplicación-de-casos-para-cada-comunidad-autónoma&quot;&gt;&lt;a name=&quot;5&quot;&gt;&lt;/a&gt;Tiempo de duplicación de casos para cada Comunidad Autónoma&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/img_covid/p13.png&quot; alt=&quot;Tiempo de duplicación CCAA&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;número-reproductivo-r&quot;&gt;&lt;a name=&quot;7&quot;&gt;&lt;/a&gt;Número reproductivo (R)&lt;/h3&gt;
+&lt;h3 id=&quot;número-reproductivo-r&quot;&gt;&lt;a name=&quot;6&quot;&gt;&lt;/a&gt;Número reproductivo (R)&lt;/h3&gt;
 
-&lt;p align=&quot;justify&quot;&gt;&lt;b&gt;El número reproductivo (R)&lt;/b&gt;. Este es otro indicador que se utiliza para seguir el ritmo del virus. Es posiblemente el mejor. Este número estima a cuántas personas contagia, en media, cada infectado. Si este número baja de 1 -si cada infectado contagia a menos de una persona- el brote empieza a remitir. Según &lt;a target=&quot;_blank&quot; href=&quot;https://cmmid.github.io/topics/covid19/control-measures/report/uk_scenario_modelling_preprint_2020_04_01.pdf&quot;&gt;este trabajo del Department of Infectious Disease Epidemiology, de la London School of Hygiene &amp;amp; Tropical Medicine&lt;/a&gt;, el R0 para Europa se ha estimado en un valor alrededor de 3 en ausencia de medidas de control del virus.&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;&lt;b&gt;Número reproductivo (R)&lt;/b&gt;. Este es otro indicador que se utiliza para seguir el ritmo del virus. Es posiblemente el mejor. Este número estima a cuántas personas contagia, en media, cada infectado. Si este número baja de 1 -si cada infectado contagia a menos de una persona- el brote empieza a remitir. Según &lt;a target=&quot;_blank&quot; href=&quot;https://cmmid.github.io/topics/covid19/control-measures/report/uk_scenario_modelling_preprint_2020_04_01.pdf&quot;&gt;este trabajo del Department of Infectious Disease Epidemiology, de la London School of Hygiene &amp;amp; Tropical Medicine&lt;/a&gt;, el R0 para Europa se ha estimado en un valor alrededor de 3 en ausencia de medidas de control del virus.&lt;/p&gt;
 
 &lt;div class=&quot;row mb-4 mt-4&quot;&gt;
     &lt;div class=&quot;col-12&quot;&gt;
@@ -201,9 +196,9 @@
     })
 &lt;/script&gt;
 
-&lt;h3 id=&quot;evolución-del-número-de-nuevos-casos-y-fallecimientos-por-países&quot;&gt;&lt;a name=&quot;8&quot;&gt;&lt;/a&gt;Evolución del número de nuevos casos y fallecimientos por países&lt;/h3&gt;
+&lt;h3 id=&quot;evolución-del-número-de-nuevos-casos-y-fallecimientos-por-países&quot;&gt;&lt;a name=&quot;7&quot;&gt;&lt;/a&gt;Evolución del número de nuevos casos y fallecimientos por países&lt;/h3&gt;
 
-&lt;p align=&quot;justify&quot;&gt;Por último, presento dos gráficos para observar la evolución del número diario de nuevos casos y fallecimientos en varios países. Para dibujar la trayectoria que dibuja la curva en varios países, he tomado una media móvil de 7 días. La trayectoria de la curva para Italia y España toma la forma de meseta. La línea a seguir es la de Corea del Sur y China. Estos países cada día reportan menos muertes y número de casos.&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Para analizar la situación a nivel internacional, aquí presento dos gráficos que muestran la evolución del número diario de nuevos casos y fallecimientos en diferentes países. Para dibujar la tendencia que la curva tiene en varios países, he tomado una media móvil de 7 días. La trayectoria de la curva para Italia y España tiene una forma de meseta. La línea a seguir es la de Corea del Sur y China. Estos países cada día reportan menos muertes y número de casos.&lt;/p&gt;
 
 &lt;div class=&quot;row mb-4 mt-4&quot;&gt;
     &lt;div class=&quot;col-12&quot;&gt;
@@ -233,4 +228,18 @@
     window.addEventListener('load', function(){
         document.querySelector('a[href=&quot;#once&quot;]').click();
     })
-&lt;/script&gt;</content><author><name>Manuel Mejías Leiva</name></author><category term="Covid-19" /><category term="evolución" /><category term="pandemia" /><category term="casos" /><summary type="html">Datos actualizados a 08/04/2020</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/img_covid/covid19.png" /><media:content medium="image" url="/img_covid/covid19.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/script&gt;
+
+&lt;h3 id=&quot;número-de-test-covid-19-por-millón-de-habitantes&quot;&gt;&lt;a name=&quot;8&quot;&gt;&lt;/a&gt;Número de test Covid-19 por millón de habitantes&lt;/h3&gt;
+
+&lt;p align=&quot;justify&quot;&gt;La realización masiva de test a la población es una medida que recientemente ha recomendado la Organización Mundial de la Salud (OMS) en la lucha contra la pandemia. Como se puede observar en los datos presentados, las diferencias entre países en el número de test realizados es bastante grande.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/img_covid/p18.png&quot; alt=&quot;Test por millón hab&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;el-virus-no-entiende-de-clases-sociales&quot;&gt;&lt;a name=&quot;9&quot;&gt;&lt;/a&gt;¿El virus no entiende de clases sociales?&lt;/h3&gt;
+
+&lt;p align=&quot;justify&quot;&gt;Por último, presento datos sobre casos x100.000 habitantes por distrito de la ciudad de &lt;a target=&quot;_blank&quot; href=&quot;https://www.comunidad.madrid/servicios/salud 2019-nuevo-coronavirus&quot;&gt;Madrid&lt;/a&gt; comparado con algunas variables sociodemográficas. En primer lugar, los datos señalan que a mayor vulnerabilidad más casos notificados de Covid-19. En segundo lugar, parece observarse que a mayor porcentaje de población con estudios superiores en el distrito, menor son los casos reportados de Covid-19. En este caso puede jugar un papel fundamental el hecho de que aquellas personas con estudios de grado superior pueden realizar teletrabajo, evitando así una exposición al contagio. En tercer lugar, se encuentra que a mayor proporción de viviendas hacinadas, mayor es el número de casos Covid-19. Y, por último, también parece que a mayor precio del alquiler, menor es el número de casos reportados por Covid-19. &lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;&gt;Estos datos son muy preliminares y tienen muchas limitaciones. Aunque dan luz sobre las desigualdades sociales en la salud que va a traer la epidemia de Coronavirus en España, y que van a sufrir las clases sociales más vulnerables. En fin, los datos apuntan a que hay que abandonar el discurso de que el virus no entiende de estratos sociales.  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/img_covid/p19.png&quot; alt=&quot;Desigualdad en salud Madrid&quot; /&gt;&lt;/p&gt;</content><author><name>Manuel Mejías Leiva</name></author><category term="Covid-19" /><category term="evolución" /><category term="pandemia" /><category term="casos" /><summary type="html">Datos actualizados a 08/04/2020</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/img_covid/covid19.png" /><media:content medium="image" url="/img_covid/covid19.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
