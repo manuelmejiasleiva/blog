@@ -1,4 +1,4 @@
-I"�E<p><strong><em>Datos actualizados a 09/04/2020</em></strong></p>
+I"lE<p><strong><em>Datos actualizados a 09/04/2020</em></strong></p>
 
 <ol>
   <li><a href="#1"><strong>Evolución diaria de la epidemia en España.</strong></a></li>
@@ -12,7 +12,7 @@
   <li><a href="#9"><strong>¿El virus no entiende de clases sociales?.</strong></a></li>
 </ol>
 
-<p align="justify">España está atravesando uno de los peores brotes de Coronavirus en el mundo. En este post se presentan datos relativos a la evolución de la pandemia tanto a nivel nacional, autonómico e internacional para tratar de clarificar algunos aspectos del ritmo de la pandemia. Los resultados a nivel nacional se obtienen a partir de la información diaria que ofrece el <a target="_blank" href="https://covid19.isciii.es/">Ministerio de Sanidad, Consumo y Bienestar Social</a>. Para las Comunidades Autónomas, los datos son obtenidos a partir de la información que proporciona el equipo de  <a target="_blank" href="https://lab.montera34.com/covid19/">Numeroteca</a>. Y, para el análisis internacional, los datos que se toman son los que ofrece la <a target="_blank" href="https://coronavirus.jhu.edu/map.html">Johns Hopkins University</a>.</p>
+<p align="justify">España está atravesando uno de los peores brotes de Coronavirus en el mundo. En este post se presentan datos relativos a la evolución de la pandemia tanto a nivel nacional, autonómico e internacional para tratar de clarificar algunos aspectos del ritmo de la pandemia. Los resultados a nivel nacional y autonómico se obtienen a partir de la información diaria que ofrece el <a target="_blank" href="https://covid19.isciii.es/">Ministerio de Sanidad, Consumo y Bienestar Social</a>. Para el análisis internacional, se parte de los datos que ofrece la <a target="_blank" href="https://coronavirus.jhu.edu/map.html">Johns Hopkins University</a>.</p>
 
 <h3 id="evolución-diaria-de-la-epidemia-en-españa"><a name="1"></a>Evolución diaria de la epidemia en España</h3>
 
@@ -39,8 +39,8 @@
 </script>       
             </div>
             <div class="tab-pane fade p-3" id="two" role="tabpanel" aria-labelledby="two-tab">
-                 <iframe title="Evoluci&oacute;n del n&uacute;mero de casos en Espa&ntilde;a" aria-label="Interactive line chart" id="datawrapper-chart-JSCW4" src="//datawrapper.dwcdn.net/JSCW4/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
-</script>       
+                 <iframe title="Evoluci&oacute;n del n&uacute;mero de casos en Espa&ntilde;a" aria-label="Interactive line chart" id="datawrapper-chart-JSCW4" src="//datawrapper.dwcdn.net/JSCW4/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>    
             </div>
             </div>
         </div>
@@ -242,6 +242,6 @@
 
 <p><img src="/assets/img/img_covid/p19.png" alt="Desigualdad en salud Madrid" /></p>
 
-<p align="justify">Estos datos son muy preliminares y tienen muchas limitaciones. Aunque dan luz sobre las desigualdades sociales en la salud que va a traer la epidemia de Coronavirus en España, y que van a sufrir las clases sociales más vulnerables. En fin, los datos apuntan a que hay que abandonar el discurso de que el virus no entiende de estratos sociales.  </p>
+<p align="justify">Estos datos son muy preliminares y tienen muchas limitaciones. Aunque son muy útiles porque aportan información sobre las desigualdades sociales en la salud que va a traer la epidemia de Coronavirus en España, y que muy posiblemente van a sufrir las clases sociales más vulnerables. Para concluir, los datos apuntan a que hay que abandonar el discurso de que el virus no entiende de estratos sociales.  </p>
 
 :ET
