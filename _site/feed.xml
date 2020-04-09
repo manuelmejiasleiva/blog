@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-09T19:07:16+02:00</updated><id>/feed.xml</id><title type="html">Manuel Mejías</title><subtitle>Sociólogo</subtitle><author><name>Manuel Mejías Leiva</name></author><entry><title type="html">Evolución diaria de la pandemia de COVID-19 en España y en el mundo</title><link href="/covid-19/Covid19.html" rel="alternate" type="text/html" title="Evolución diaria de la pandemia de COVID-19 en España y en el mundo" /><published>2020-04-07T00:00:00+02:00</published><updated>2020-04-07T00:00:00+02:00</updated><id>/covid-19/Covid19</id><content type="html" xml:base="/covid-19/Covid19.html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Datos actualizados a 09/04/2020&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-09T20:16:14+02:00</updated><id>/feed.xml</id><title type="html">Manuel Mejías</title><subtitle>Sociólogo</subtitle><author><name>Manuel Mejías Leiva</name></author><entry><title type="html">Evolución diaria de la pandemia de COVID-19 en España y en el mundo</title><link href="/covid-19/Covid19.html" rel="alternate" type="text/html" title="Evolución diaria de la pandemia de COVID-19 en España y en el mundo" /><published>2020-04-07T00:00:00+02:00</published><updated>2020-04-07T00:00:00+02:00</updated><id>/covid-19/Covid19</id><content type="html" xml:base="/covid-19/Covid19.html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Datos actualizados a 09/04/2020&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;#1&quot;&gt;&lt;strong&gt;Evolución diaria de la epidemia en España.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -166,35 +166,7 @@
 
 &lt;p align=&quot;justify&quot;&gt;&lt;b&gt;Número reproductivo (R)&lt;/b&gt;. Este es otro indicador que se utiliza para seguir el ritmo del virus. Es posiblemente el mejor. Este número estima a cuántas personas contagia, en media, cada infectado. Si este número baja de 1 -si cada infectado contagia a menos de una persona- el brote empieza a remitir. Según &lt;a target=&quot;_blank&quot; href=&quot;https://cmmid.github.io/topics/covid19/control-measures/report/uk_scenario_modelling_preprint_2020_04_01.pdf&quot;&gt;este trabajo del Department of Infectious Disease Epidemiology, de la London School of Hygiene &amp;amp; Tropical Medicine&lt;/a&gt;, el R0 para Europa se ha estimado en un valor alrededor de 3 en ausencia de medidas de control del virus.&lt;/p&gt;
 
-&lt;div class=&quot;row mb-4 mt-4&quot;&gt;
-    &lt;div class=&quot;col-12&quot;&gt;
-        &lt;div class=&quot;card mt-3 tab-card&quot;&gt;
-            &lt;div class=&quot;card-header tab-card-header&quot;&gt;
-            &lt;ul class=&quot;nav nav-tabs card-header-tabs&quot; id=&quot;myTab&quot; role=&quot;tablist&quot;&gt;
-                &lt;li class=&quot;nav-item&quot;&gt;
-                    &lt;a class=&quot;nav-link&quot; id=&quot;one-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#nine&quot; role=&quot;tab&quot; aria-controls=&quot;One&quot; aria-selected=&quot;true&quot;&gt;R0 para España&lt;/a&gt;
-                &lt;/li&gt;
-                &lt;li class=&quot;nav-item&quot;&gt;
-                    &lt;a class=&quot;nav-link&quot; id=&quot;two-tab&quot; data-toggle=&quot;tab&quot; href=&quot;#ten&quot; role=&quot;tab&quot; aria-controls=&quot;Two&quot; aria-selected=&quot;false&quot;&gt;R0 para Andalucía&lt;/a&gt;
-                &lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;tab-content&quot; id=&quot;myTabContent&quot;&gt;
-            &lt;div class=&quot;tab-pane fade show active p-3&quot; id=&quot;nine&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;one-tab&quot;&gt;
-                &lt;img src=&quot;/assets/img/img_covid/p14.png&quot; /&gt;             
-            &lt;/div&gt;
-            &lt;div class=&quot;tab-pane fade p-3&quot; id=&quot;ten&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;two-tab&quot;&gt;
-                &lt;img src=&quot;/assets/img/img_covid/p15.png&quot; /&gt;                    
-            &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;script&gt;
-    window.addEventListener('load', function(){
-        document.querySelector('a[href=&quot;#nine&quot;]').click();
-    })
-&lt;/script&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/img_covid/p14.png&quot; alt=&quot;R0 para España&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;evolución-del-número-de-nuevos-casos-y-fallecimientos-por-países&quot;&gt;&lt;a name=&quot;7&quot;&gt;&lt;/a&gt;Evolución del número de nuevos casos y fallecimientos por países&lt;/h3&gt;
 
