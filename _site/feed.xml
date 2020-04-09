@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-09T20:16:14+02:00</updated><id>/feed.xml</id><title type="html">Manuel Mejías</title><subtitle>Sociólogo</subtitle><author><name>Manuel Mejías Leiva</name></author><entry><title type="html">Evolución diaria de la pandemia de COVID-19 en España y en el mundo</title><link href="/covid-19/Covid19.html" rel="alternate" type="text/html" title="Evolución diaria de la pandemia de COVID-19 en España y en el mundo" /><published>2020-04-07T00:00:00+02:00</published><updated>2020-04-07T00:00:00+02:00</updated><id>/covid-19/Covid19</id><content type="html" xml:base="/covid-19/Covid19.html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Datos actualizados a 09/04/2020&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-09T20:21:53+02:00</updated><id>/feed.xml</id><title type="html">Manuel Mejías</title><subtitle>Sociólogo</subtitle><author><name>Manuel Mejías Leiva</name></author><entry><title type="html">Evolución diaria de la pandemia de COVID-19 en España y en el mundo</title><link href="/covid-19/Covid19.html" rel="alternate" type="text/html" title="Evolución diaria de la pandemia de COVID-19 en España y en el mundo" /><published>2020-04-07T00:00:00+02:00</published><updated>2020-04-07T00:00:00+02:00</updated><id>/covid-19/Covid19</id><content type="html" xml:base="/covid-19/Covid19.html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Datos actualizados a 09/04/2020&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;#1&quot;&gt;&lt;strong&gt;Evolución diaria de la epidemia en España.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#2&quot;&gt;&lt;strong&gt;Evolución del número de nuevos casos y fallecimientos a diario.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#3&quot;&gt;&lt;strong&gt;Los casos y fallecimientos confirmados en cada Comunidad Autónoma.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#4&quot;&gt;&lt;strong&gt;Tiempo de duplicación de casos y fallecimientos.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#5&quot;&gt;&lt;strong&gt;Tiempo de duplicación de casos para cada Comunidad Autónoma.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#6&quot;&gt;&lt;strong&gt;Número reproductivo (R).&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#7&quot;&gt;&lt;strong&gt;Evolución del número de nuevos casos y fallecimientos por países.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#8&quot;&gt;&lt;strong&gt;Número de test Covid-19 por millón de habitantes.&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -158,17 +157,13 @@
     })
 &lt;/script&gt;
 
-&lt;h3 id=&quot;tiempo-de-duplicación-de-casos-para-cada-comunidad-autónoma&quot;&gt;&lt;a name=&quot;5&quot;&gt;&lt;/a&gt;Tiempo de duplicación de casos para cada Comunidad Autónoma&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/img_covid/p13.png&quot; alt=&quot;Tiempo de duplicación CCAA&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;número-reproductivo-r&quot;&gt;&lt;a name=&quot;6&quot;&gt;&lt;/a&gt;Número reproductivo (R)&lt;/h3&gt;
+&lt;h3 id=&quot;número-reproductivo-r&quot;&gt;&lt;a name=&quot;5&quot;&gt;&lt;/a&gt;Número reproductivo (R)&lt;/h3&gt;
 
 &lt;p align=&quot;justify&quot;&gt;&lt;b&gt;Número reproductivo (R)&lt;/b&gt;. Este es otro indicador que se utiliza para seguir el ritmo del virus. Es posiblemente el mejor. Este número estima a cuántas personas contagia, en media, cada infectado. Si este número baja de 1 -si cada infectado contagia a menos de una persona- el brote empieza a remitir. Según &lt;a target=&quot;_blank&quot; href=&quot;https://cmmid.github.io/topics/covid19/control-measures/report/uk_scenario_modelling_preprint_2020_04_01.pdf&quot;&gt;este trabajo del Department of Infectious Disease Epidemiology, de la London School of Hygiene &amp;amp; Tropical Medicine&lt;/a&gt;, el R0 para Europa se ha estimado en un valor alrededor de 3 en ausencia de medidas de control del virus.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/img_covid/p14.png&quot; alt=&quot;R0 para España&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;evolución-del-número-de-nuevos-casos-y-fallecimientos-por-países&quot;&gt;&lt;a name=&quot;7&quot;&gt;&lt;/a&gt;Evolución del número de nuevos casos y fallecimientos por países&lt;/h3&gt;
+&lt;h3 id=&quot;evolución-del-número-de-nuevos-casos-y-fallecimientos-por-países&quot;&gt;&lt;a name=&quot;6&quot;&gt;&lt;/a&gt;Evolución del número de nuevos casos y fallecimientos por países&lt;/h3&gt;
 
 &lt;p align=&quot;justify&quot;&gt;Para analizar la situación a nivel internacional, aquí presento dos gráficos que muestran la evolución del número diario de nuevos casos y fallecimientos en diferentes países. Para dibujar la tendencia que la curva tiene en varios países, he tomado una media móvil de 7 días. La trayectoria de la curva para Italia y España tiene una forma de meseta. La línea a seguir es la de Corea del Sur y China. Estos países cada día reportan menos muertes y número de casos.&lt;/p&gt;
 
@@ -202,13 +197,13 @@
     })
 &lt;/script&gt;
 
-&lt;h3 id=&quot;número-de-test-covid-19-por-millón-de-habitantes&quot;&gt;&lt;a name=&quot;8&quot;&gt;&lt;/a&gt;Número de test Covid-19 por millón de habitantes&lt;/h3&gt;
+&lt;h3 id=&quot;número-de-test-covid-19-por-millón-de-habitantes&quot;&gt;&lt;a name=&quot;7&quot;&gt;&lt;/a&gt;Número de test Covid-19 por millón de habitantes&lt;/h3&gt;
 
 &lt;p align=&quot;justify&quot;&gt;La realización masiva de test a la población es una medida que recientemente ha recomendado la Organización Mundial de la Salud (OMS) en la lucha contra la pandemia. Como se puede observar en los datos presentados, las diferencias entre países en el número de test realizados es bastante grande.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/img_covid/p18.png&quot; alt=&quot;Test por millón hab&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;el-virus-no-entiende-de-clases-sociales&quot;&gt;&lt;a name=&quot;9&quot;&gt;&lt;/a&gt;¿El virus no entiende de clases sociales?&lt;/h3&gt;
+&lt;h3 id=&quot;el-virus-no-entiende-de-clases-sociales&quot;&gt;&lt;a name=&quot;8&quot;&gt;&lt;/a&gt;¿El virus no entiende de clases sociales?&lt;/h3&gt;
 
 &lt;p align=&quot;justify&quot;&gt;Por último, presento datos sobre casos x100.000 habitantes por distrito de la ciudad de &lt;a target=&quot;_blank&quot; href=&quot;https://www.comunidad.madrid/servicios/salud 2019-nuevo-coronavirus&quot;&gt;Madrid&lt;/a&gt; comparado con algunas variables sociodemográficas. En primer lugar, los datos señalan que a mayor vulnerabilidad más casos notificados de Covid-19. En segundo lugar, parece observarse que a mayor porcentaje de población con estudios superiores en el distrito, menor son los casos reportados de Covid-19. En este caso puede jugar un papel fundamental el hecho de que aquellas personas con estudios de grado superior pueden realizar teletrabajo, evitando así una exposición al contagio. En tercer lugar, se encuentra que a mayor proporción de viviendas hacinadas, mayor es el número de casos Covid-19. Y, por último, también parece que a mayor precio del alquiler, menor es el número de casos reportados por Covid-19. &lt;/p&gt;
 
