@@ -1,4 +1,4 @@
-I"?<p><strong><em>Datos actualizados a 11/04/2020</em></strong></p>
+I"�A<p><strong><em>Datos actualizados a 13/04/2020</em></strong></p>
 
 <ol>
   <li><a href="#1"><strong>Evolución diaria de la epidemia en España.</strong></a></li>
@@ -8,10 +8,10 @@
   <li><a href="#5"><strong>Número reproductivo (R).</strong></a></li>
   <li><a href="#6"><strong>Evolución del número de nuevos casos y fallecimientos por países.</strong></a></li>
   <li><a href="#7"><strong>Número de test Covid-19 por millón de habitantes.</strong></a></li>
-  <li><a href="#8"><strong>El sistema para la Vigilancia de la mortalidad diaria por todas las causas en España.</strong></a></li>
+  <li><a href="#8"><strong>El sistema para la Vigilancia de la mortalidad diaria por todas las causas en España (MoMo).</strong></a></li>
 </ol>
 
-<p align="justify">España está atravesando uno de los peores brotes de Coronavirus en el mundo. En este post se presentan datos relativos a la evolución de la pandemia tanto a nivel nacional, autonómico e internacional para tratar de clarificar algunos aspectos del ritmo de la pandemia. Los resultados a nivel nacional se obtienen a partir de la información diaria que ofrece el <a target="_blank" href="https://covid19.isciii.es/">Ministerio de Sanidad, Consumo y Bienestar Social</a> y los datos a nivel autonómico son seleccionados de <a target="_blank" h="" ref="https://code.montera34.com:4443/numeroteca/covid19/-/raw/master/data/output/covid19-casos-registrados-por-ccaa-espana-por-dia-acumulado.csv">Datadista y Numeroteca</a>. Para el análisis internacional, se parte de los datos que ofrece la <a target="_blank" href="https://coronavirus.jhu.edu/map.html">Johns Hopkins University</a>.</p>
+<p align="justify">España está atravesando uno de los peores brotes de Coronavirus en el mundo. En este post se presentan datos relativos a la evolución de la pandemia tanto a nivel nacional, autonómico e internacional para tratar de clarificar algunos aspectos del ritmo de la pandemia. Los resultados a nivel nacional se obtienen a partir de la información diaria que ofrece el <a target="_blank" href="https://covid19.isciii.es/">Ministerio de Sanidad, Consumo y Bienestar Social</a>, y los datos a nivel autonómico son seleccionados de <a target="_blank" href="https://code.montera34.com:4443/numeroteca/covid19/-/raw/master/data/output/covid19-casos-registrados-por-ccaa-espana-por-dia-acumulado.csv">Datadista y Numeroteca</a>. Para el análisis internacional, se parte de los datos que ofrece la <a target="_blank" href="https://coronavirus.jhu.edu/map.html">Johns Hopkins University</a>.</p>
 
 <h3 id="evolución-diaria-de-la-epidemia-en-españa"><a name="1"></a>Evolución diaria de la epidemia en España</h3>
 
@@ -34,11 +34,11 @@
             </div>
             <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade show active p-3" id="one" role="tabpanel" aria-labelledby="one-tab">
-                <iframe title="Evoluci&oacute;n del n&uacute;mero de fallecidos  en Espa&ntilde;a" aria-label="Interactive line chart" id="datawrapper-chart-2DRIB" src="//datawrapper.dwcdn.net/2DRIB/10/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+                <iframe title="Evoluci&oacute;n del n&uacute;mero de fallecidos  en Espa&ntilde;a" aria-label="Interactive line chart" id="datawrapper-chart-2DRIB" src="//datawrapper.dwcdn.net/2DRIB/11/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
             </div>
             <div class="tab-pane fade p-3" id="two" role="tabpanel" aria-labelledby="two-tab">
-                 <iframe title="Evoluci&oacute;n del n&uacute;mero de casos en Espa&ntilde;a" aria-label="Interactive line chart" id="datawrapper-chart-JSCW4" src="//datawrapper.dwcdn.net/JSCW4/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+                 <iframe title="Evoluci&oacute;n del n&uacute;mero de casos en Espa&ntilde;a" aria-label="Interactive line chart" id="datawrapper-chart-JSCW4" src="//datawrapper.dwcdn.net/JSCW4/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
             </div>
             </div>
@@ -165,7 +165,7 @@
 
 <h3 id="evolución-del-número-de-nuevos-casos-y-fallecimientos-por-países"><a name="6"></a>Evolución del número de nuevos casos y fallecimientos por países</h3>
 
-<p align="justify">Para analizar la situación a nivel internacional, aquí presento dos gráficos que muestran la evolución del número diario de nuevos casos y fallecimientos en diferentes países. Para dibujar la tendencia que la curva tiene en varios países, he tomado una media móvil de 7 días. La trayectoria de la curva para Italia y España tiene una forma de meseta. La línea a seguir es la de Corea del Sur y China. Estos países cada día reportan menos muertes y número de casos.</p>
+<p align="justify">Para analizar la situación a nivel internacional, aquí presento dos gráficos que muestran la evolución del número diario de nuevos casos y fallecimientos en diferentes países. Para dibujar la tendencia que la curva tiene en varios países he tomado un modelo de regresión local, que ajusta una línea suavizada de los datos existentes. La trayectoria de la curva para Italia y España tiene una forma de meseta. La línea a seguir es la de Corea del Sur y China. Estos países cada día reportan menos muertes y número de casos.</p>
 
 <div class="row mb-4 mt-4">
     <div class="col-12">
@@ -199,16 +199,17 @@
 
 <h3 id="número-de-test-covid-19-por-millón-de-habitantes"><a name="7"></a>Número de test Covid-19 por millón de habitantes</h3>
 
-<p align="justify">La realización masiva de test a la población es una medida que recientemente ha recomendado la Organización Mundial de la Salud (OMS) en la lucha contra la pandemia. Como se puede observar en los datos presentados, las diferencias entre países en el número de test realizados es bastante grande.</p>
+<p align="justify">La realización masiva de test a la población es una medida que recientemente ha recomendado la Organización Mundial de la Salud (OMS) en la lucha contra la pandemia. Como se puede observar en los datos presentados, las diferencias entre países en el número de test realizados es bastante grande. Los datos han sido tomados de <a target="_blank" href="https://www.elconfidencial.com/tecnologia/ciencia/2020-04-03/covid19-test-pcr-coronavirus-espana_2531844/">este artículo</a> de El Confidencial del día 3/4/2020.</p>
 
 <p><img src="/assets/img/img_covid/p18.png" alt="Test por millón hab" /></p>
 
-<h3 id="el-sistema-para-la-vigilancia-de-la-mortalidad-diaria-por-todas-las-causas-en-españa"><a name="8"></a>El sistema para la Vigilancia de la mortalidad diaria por todas las causas en España</h3>
+<h3 id="el-sistema-para-la-vigilancia-de-la-mortalidad-diaria-por-todas-las-causas-en-españa-momo"><a name="8"></a>El sistema para la Vigilancia de la mortalidad diaria por todas las causas en España (MoMo)</h3>
 
 <p align="justify">¿Qué es MoMo? Según el Instituto de Salud Carlos III este "es un sistema para la Vigilancia de la mortalidad diaria por todas las causas en España. Tiene como objetivo identificar patrones inusuales de mortalidad y estimar el impacto en la mortalidad de la población de cualquier evento de importancia para guiar la acción en Salud Pública".</p>
 
-<iframe title="Mortalidad por todas las causas en Espa&ntilde;a. Defunciones Observadas, esperadas e intervalo de confianza" aria-label="Interactive line chart" id="datawrapper-chart-DR7Zj" src="//datawrapper.dwcdn.net/DR7Zj/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="527"></iframe>
+<iframe title="Mortalidad por todas las causas en Espa&ntilde;a. Defunciones observadas, esperadas e intervalo de confianza" aria-label="Interactive line chart" id="datawrapper-chart-DR7Zj" src="//datawrapper.dwcdn.net/DR7Zj/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="527"></iframe>
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
+<p align="justify">La línea roja representa las muertes observadas, y la línea gris oscura señala las muertes esperadas por todas las causas por el modelo estadístico de MoMo. Desde el inicio de la serie de datos en 2018 no se ha observado un pico de fallecimientos registrados tan alto como en el mes de marzo de 2020. Esto puede ser debido a la oleada de fallecimientos por la epidemia de Covid-19.</p>
 :ET
