@@ -6,19 +6,5 @@
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
-			<item>
-				<title>Evolución diaria de la pandemia de COVID-19 en España y en el mundo</title>
-				
-					<dc:creator>Manuel Mejías Leiva</dc:creator>
-				
-				
-					<description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Datos actualizados a 13/04/2020&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Tue, 07 Apr 2020 00:00:00 +0200</pubDate>
-				<link>/covid-19/Covid19.html</link>
-				<guid isPermaLink="true">/covid-19/Covid19.html</guid>
-			</item>
-		
 	</channel>
 </rss>
