@@ -1,65 +1,47 @@
----
-layout: post
-title: "Una mirada a las condiciones de vida y al Estado del Bienestar"
-author: "Manuel Mejías Leiva"
-categories: Desigualdad
-tags: [desigualdad, pobreza, renta, estado del bienestar]
----
-
-
-
-
-
-
-<p align="justify">El Instituto Nacional de Estadística (INE) publica anualmente la Encuesta de Condiciones de Vida en España (ECV), donde recoge una gran cantidad de información sobre aspectos relacionados con nuestras condiciones de vida. La ECV es la encuesta más completa para analizar aspectos relacionados con el nivel de renta de la población, y cómo se distribuye esta por los diferentes estratos sociales. A nivel agregado, nos aporta información sobre los niveles de desigualdad, pobreza y exclusión social que presenta nuestra sociedad. Los datos relativos a ingresos del hogar proporcionados por los informantes se verifican posteriormente mediante su comprobación en registros administrativos, lo que hace que esta encuesta ofrezca un mayor nivel de fiabilidad.</p>
+I"�!<p align="justify">El Instituto Nacional de Estadística (INE) publica anualmente la Encuesta de Condiciones de Vida en España (ECV), donde recoge una gran cantidad de información sobre aspectos relacionados con nuestras condiciones de vida. La ECV es la encuesta más completa para analizar aspectos relacionados con el nivel de renta de la población, y cómo se distribuye esta por los diferentes estratos sociales. A nivel agregado, nos aporta información sobre los niveles de desigualdad, pobreza y exclusión social que presenta nuestra sociedad. Los datos relativos a ingresos del hogar proporcionados por los informantes se verifican posteriormente mediante su comprobación en registros administrativos, lo que hace que esta encuesta ofrezca un mayor nivel de fiabilidad.</p>
 
 <p align="justify">En concreto, los datos relativos a 2018 nos van a permitir esbozar una radiografía sobre la distribución de la renta por sectores poblacionales, y la situación de la pobreza en nuestro país según algunas características sociodemográficas básicas. Esto puede ser útil para pensar en la toma de decisiones sobre políticas públicas, y cómo abordar su diseño e implementación de manera correcta. En estos momentos en que la pandemia de coronavirus amenaza con enormes turbulencias sociales, económicas, políticas y sanitarias, se hace más necesario que nunca reflexionar sobre el estado actual de nuestras condiciones de vida y nuestro sistema de bienestar.</p>
 
-
-
-##### La desigual distribución de renta: una mirada al mundo laboral en tiempos de coronavirus
+<h5 id="la-desigual-distribución-de-renta-una-mirada-al-mundo-laboral-en-tiempos-de-coronavirus">La desigual distribución de renta: una mirada al mundo laboral en tiempos de coronavirus</h5>
 
 <p align="justify">El siguiente gráfico muestra la distribución de la renta por deciles. Dividir a la población en deciles de renta consiste en descomponerla en 10 grupos y calcular para cada uno de ellos su renta media. Esto nos ayudará a comprender de una manera más sencilla la desigualdad en el reparto de la renta.</p>
 
-![Renta por deciles]({{ site.github.url }}/assets/img/img_ecv18/renta.png)
+<p><img src="/assets/img/img_ecv18/renta.png" alt="Renta por deciles" /></p>
 
 <p align="justify">La renta media del hogar se sitúa en torno a los 28.416 euros anuales. Pero lo interesante de este gráfico es ver la disparidad que existe entre los diferentes deciles. El 10% de los hogares más ricos (decil 10) ingresa hasta 13 veces más que el 10% de los hogares más pobres (decil 1). También resulta llamativo que alrededor de un 60% de la población dispone de un nivel de renta inferior al de los ingresos medios. Pero la desigualdad se concentra en los niveles más bajos: <b>el hogar medio ingresa hasta 5 veces más que los hogares que se concentran en el decil de renta más bajo</b>.</p>
 
 <p align="justify">El hecho de que exista una desigual distribución de la renta en nuestro país, debe llevarnos a realizar una reflexión del mundo del trabajo que se está viendo fuertemente golpeado en estos momentos. Hay ya sobre la mesa algunos análisis de expertos que están evidenciando que las consecuencias laborales del parón están afectando en mayor medida a los sectores productivos con bajos salarios (véase <a target="_blank" href="https://www.eldiario.es/piedrasdepapel/Covid-19-empleo-ocupaciones-riesgo_6_1013908643.html">esto</a> y <a target="_blank" href="https://twitter.com/gonlomo/status/1250859800881217538">esto</a>). Como muestra el siguiente gráfico donde se ha calculado los ingresos medios para cada sector laboral, el cierre temporal no va a afectar a todos por igual.</p>
 
-![Renta por sectores]({{ site.github.url }}/assets/img/img_ecv18/ocupaciones.png)
+<p><img src="/assets/img/img_ecv18/ocupaciones.png" alt="Renta por sectores" /></p>
 
 <p align="justify">Los sectores como la hostelería, el comercio, el servicio doméstico o la construcción se encuentran por debajo de la media de ingresos. Esto indica que en <b>los sectores laborales con bajos salarios el parón tendrá un impacto mucho más negativo debido a que pueden ver mermados -aún más- sus ingresos</b>.</p>
 
-
-
-##### La situación actual de la pobreza en España por tipo de hogar y grupos de edad
+<h5 id="la-situación-actual-de-la-pobreza-en-españa-por-tipo-de-hogar-y-grupos-de-edad">La situación actual de la pobreza en España por tipo de hogar y grupos de edad</h5>
 
 <p align="justify">La ECV nos señala que hasta un <b>26,1% de población está en riesgo de pobreza o exclusión social (tasa Arope)</b>. De estos hogares, un 58,9% de sus miembros declaran estar en desempleo, el 67,5% tienen estudios primarios o inferiores y estudios secundarios de primera etapa, y un 48% dice llegar a fin de mes con dificultad o mucha dificultad. En los siguientes gráficos se muestra el perfil de la población en riesgo de pobreza y con carencia material severa según el tipo de hogar y el grupo de edad al que pertenecen.</p>
 
-![Pobreza hogares]({{ site.github.url }}/assets/img/img_ecv18/exclusion.png)
+<p><img src="/assets/img/img_ecv18/exclusion.png" alt="Pobreza hogares" /></p>
 
-<p align="justify">Los datos muestran que <b>las familias monoparentales son las que concentran un mayor riesgo de caer en una situación de pobreza o de carencia material</b>. También es relevante resaltar que los hogares compuestos por familias numerosas (3 o más hijos) y aquellos hogares de una persona menor de 30 años tienen un elevado riesgo económico de caer en situación de pobreza o tener carencia material severa.</p> 
+<p align="justify">Los datos muestran que <b>las familias monoparentales son las que concentran un mayor riesgo de caer en una situación de pobreza o de carencia material</b>. También es relevante resaltar que los hogares compuestos por familias numerosas (3 o más hijos) y aquellos hogares de una persona menor de 30 años tienen un elevado riesgo económico de caer en situación de pobreza o tener carencia material severa.</p>
 
 <p align="justify">Otra característica determinante para analizar la situación de vulnerabilidad económica es conocer la distribución del riesgo de pobreza por grupos de edad. Tras la crisis de 2008, los grupos de menor edad sufrieron un impacto de devaluación económica mayor, unido a altas tasas de desempleo para los jóvenes y a unos niveles de precariedad que han marcado sus trayectorias biográficas.</p>
 
-![Pobreza grupos edad]({{ site.github.url }}/assets/img/img_ecv18/edad_pobreza.png)
+<p><img src="/assets/img/img_ecv18/edad_pobreza.png" alt="Pobreza grupos edad" /></p>
 
-<p align="justify">La tasa de riesgo de pobreza y carencia material severa es especialmente alta entre los grupos de población de 0 a 16 años y de 16 a 29 años: <b>el número de personas menores y jóvenes en riesgo de pobreza es 3 veces mayor que el del grupo de personas de 65 o más años</b>. Esto deja en evidencia que hay una carencia en la aplicación de políticas públicas que intervengan en los sectores de menor edad que se encuentran desprotegidos y en vulnerabilidad.</p> 
+<p align="justify">La tasa de riesgo de pobreza y carencia material severa es especialmente alta entre los grupos de población de 0 a 16 años y de 16 a 29 años: <b>el número de personas menores y jóvenes en riesgo de pobreza es 3 veces mayor que el del grupo de personas de 65 o más años</b>. Esto deja en evidencia que hay una carencia en la aplicación de políticas públicas que intervengan en los sectores de menor edad que se encuentran desprotegidos y en vulnerabilidad.</p>
 
-
-##### El Estado del Bienestar en España
+<h5 id="el-estado-del-bienestar-en-españa">El Estado del Bienestar en España</h5>
 
 <p align="justify">Una característica del estado del bienestar en España es que se dice que es poco redistributivo. Ligado a los datos presentados anteriormente, se puede deducir que es también poco generoso entre los sectores de población de menor edad.</p>
 
 <p align="justify">Una forma de medir la redistribución que pone en funcionamiento el Estado es ver la desigualdad antes y después de su actuación. Para hacer este ejercicio se ha tomado el índice de Gini, que va desde 0 (cuando la renta se reparte con total igualdad) y 100 (cuando la renta se concentra en una persona). Así, para medir la redistribución, se compara este índice antes y después de transferencias.</p>
 
-![EB España]({{ site.github.url }}/assets/img/img_ecv18/desigualdad.png)
+<p><img src="/assets/img/img_ecv18/desigualdad.png" alt="EB España" /></p>
 
 <p align="justify">En el siguiente gráfico se observa que el impacto de las transferencias en España -en comparación con otros países como Suecia, Portugal, Alemania o Grecia- reduce poco la desigualdad de partida medida en puntos Gini. Esto se traduce en que en Suecia la intervención del Estado mediante transferencias sociales deja un índice de Gini de 27 sobre 100, mientras que en España es de 33.2 sobre 100. Esto indica que el <b>Estado del Bienestar en España es poco redistributivo cuando se compara con los países de su entorno</b>.</p>
 
-
-##### Rediseñar el estado del bienestar ante los riesgos crecientes
+<h5 id="rediseñar-el-estado-del-bienestar-ante-los-riesgos-crecientes">Rediseñar el estado del bienestar ante los riesgos crecientes</h5>
 
 <p align="justify">Los datos que acabamos de ver ponen de relieve que España tiene que rediseñar su sistema de protecciones sociales de manera urgente. Se hacen necesarias medidas que desliguen las prestaciones al mundo del trabajo, reduzcan las trabas burocráticas y sean lo más universales posible. Uno de estos caminos a transitar en la redefinición de los sistemas de bienestar es la necesidad de rentas básicas que cubran a la mayor parte de la población, y que no queden sujetas al mundo del trabajo, el cual está sufriendo grandes mutaciones a nivel global y está presentando unas condiciones de precariedad crecientes. Ante un contexto donde los riesgos sociales, económicos, políticos y sanitarios están dejando las estructuras de protección al descubierto, urgen nuevas medidas de carácter universal para paliar los graves fenómenos de pobreza y desigualdad en nuestras sociedades.</p>
 
+:ET
