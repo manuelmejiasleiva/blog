@@ -9,6 +9,7 @@ google-ID: 'UA-112060364-1'
 menu:
 - {name: 'Acerca', path: 'menu', url: 'acerca.html'}
 - {name: 'Artículos', path: 'menu', url: 'articulos.html'}
+- {name: 'Proyectos', path: 'menu', url: 'Proyectos.html'}
 - {name: 'Contacto', path: 'menu', url: 'contacto.html'}
 - {name: 'CV', path: 'menu', url: 'CV.html'}
 
